@@ -5,6 +5,8 @@
 
 #include <stdexcept>
 
+using namespace std::literals;
+
 int main()
 {
     test_charge_configuration_cherche_fichier();
