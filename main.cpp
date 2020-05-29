@@ -32,8 +32,6 @@ int main()
 
     Discographie discographie { take_five, blue_rondo_a_la_turk, nocturne, aventurier, j_ai_demande_a_la_lune };
 
-    Discographie discographie2 { take_five, blue_rondo_a_la_turk, nocturne, aventurier, j_ai_demande_a_la_lune };
-
     try
     {
         Configuration_Logiciel config_log;
